@@ -1,5 +1,5 @@
 import { YoutubeTranscript } from "youtube-transcript";
-import welcome from "welcome.html";
+import welcome from "./welcome.html";
 
 export default {
   /**
